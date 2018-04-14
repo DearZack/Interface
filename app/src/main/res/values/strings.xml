@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interface</string>
+    <string name="first">一</string>
+    <string name="second">二</string>
+    <string name="third">三</string>
+    <string name="fourth">四</string>
+</resources>
